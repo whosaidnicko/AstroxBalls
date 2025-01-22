@@ -12,10 +12,10 @@ workflows:
         certificates:
          - certificate: certPlas
       vars:
-        BUNDLE_ID: "handli.inc.2r7mz"
-        XCODE_PROJECT: "CasinoRoyaleMulti.xcodeproj"
-        XCODE_SCHEME: "CasinoRoyaleMulti"
-        APP_STORE_APPLE_ID: 6740542138
+        BUNDLE_ID: "astrx.dual.pehz2"
+        XCODE_PROJECT: "AstroxBalls.xcodeproj"
+        XCODE_SCHEME: "AstroxBalls"
+        APP_STORE_APPLE_ID: 6740853922
       xcode: 16.0
 
     scripts:
