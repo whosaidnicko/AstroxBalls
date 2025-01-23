@@ -20,7 +20,7 @@ class RewardedViewModel: NSObject, ObservableObject, GADFullScreenContentDelegat
     func loadAd() {
         let request = GADRequest()
         GADRewardedAd.load(
-            withAdUnitID: "ca-app-pub-3940256099942544/1712485313",
+            withAdUnitID: "ca-app-pub-2706421112110094/4890391292",
             request: request
         ) { [weak self] ad, error in
             if let error = error {
